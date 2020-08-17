@@ -22,7 +22,7 @@ The instances are 24 randomly generated type of networks, classified using the f
 
 - Class: Demand 2 (number of customers), uniformly distributed within a tight range [160, 240](1) or a loose range [120, 280](2);
 
-- Sparsity: Network sparsity: full grid (00), sparse grid (25) and spanning tree (50).
+- Sparsity: full grid (00), sparse grid (25) and spanning tree (50).
 
 Geographical coordinates were set so that the networks turn up into grids. Some minor disturbances in the coordinates were employed to avoid symmetry.
 
@@ -31,15 +31,15 @@ Input Format:
 
 n - number of nodes
 m - number of edges 
-P - maximum number of districts 
+P - number of districts 
 tau - tolerance for district capacity violation, which can be an external parameter
 
 A list of size n, with information about the nodes containing:
 - x and y coordinates of node i
-- The district that node i is assigned
+- The original district that node i is assigned to
 
 A list of size m, with information about the edges containing:
-- Node i adjacent to node j (edje a)
+- Node i adjacent to node j (edje e)
 - number of customers (or number of electric meters) 
 - reading time  
 
