@@ -10,6 +10,7 @@
 # 1. Laura Assis - laura.assis@cefet-rj.br
 # 2. Fábio Usbertti - fusberti@ic.unicamp.br
 # 3. Paulo França - paulo.morelato@gmail.com
+# 4. Augusto Mendonça - augusto01@gmail.com
 ###########################################################
 
 Explanation of Instances:
