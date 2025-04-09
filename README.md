@@ -15,7 +15,7 @@
 
 Explanation of Instances:
 
-The instances are 24 randomly generated type of networks, classified using the following taxonomy (doi: http://dx.doi.org/10.1016/j.cor.2013.08.00):
+The instances are 24 randomly generated type of networks, classified using the following taxonomy (doi: http://dx.doi.org/10.1016/j.cor.2013.08.002):
 
 - Group: 512 nodes (A) or 1024 nodes (B);
 
